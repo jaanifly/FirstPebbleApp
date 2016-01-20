@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jaanifly@gmail.com",
+    "longName": "Hello World",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Hello World",
+    "uuid": "4935f964-de83-419d-ac3a-f09fe430cea6",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
